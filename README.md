@@ -1,6 +1,6 @@
 PyPassGen Python Password Generator 
 =========================================================================
-
+The app is inside dist > main.exe
 Hey Friends, 
 Daily , I see so many developers missing to enforce good password policy,
 This Application can be used by normal users to generate strong password or the developers to integrate it in their web application :) 
